@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> El repositorio consiste en una consultadora de Clima usando la API de openweathermap.</br>
+> El repositorio consiste en una consultadora de Clima usando la API de openweathermap, todo esto de manera local.</br>
 
 ## 🦁 Versión de Javascript
 
